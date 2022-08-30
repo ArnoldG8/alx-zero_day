@@ -1,1 +1,1 @@
-New Directory
+Zero Day exercise
